@@ -4,7 +4,6 @@
 
 #Trabajo Practico N°3
 
-
 """
 1A-
 En el codigo de conhilos.py se puede ver como comienzan las tareas a ejecutarse en paralelo y van terminando dependiendo el tiempo que lleve cada una. Todo el proceso lleva 4 segundos y centimas ya que toma todo el procedimiento desde que empieza hasta que termina la ultima tarea la cual tiene 4 seg de espera, haciendo que el tiempo de ejecucion este dominado por la tarea 3.
