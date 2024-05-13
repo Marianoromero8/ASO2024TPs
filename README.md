@@ -1,6 +1,6 @@
 <h1>Trabajo Practico N°1</h1>
 
-
+<img src="./trabajoPractico1/TP1 Arq y Sist. Operativos.jpeg">
 
 <h1>Trabajo Practico N°2</h1>
 
