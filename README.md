@@ -17,3 +17,8 @@ Despues de compartir con varios compañeros nos da el mismo tiempo de ejecucion 
 Antes de descomentar, cuando ejecuto el archivo sin bucles internos el valor final me da 0 y el tiempo que toma es menos de 1 segundo (0.01... segundos) debido a la falta de sincronizacion entre ambos hilos que genera los resultados dados y debido a no contener bucles internos no consume tanto tiempo. 
   En cambio cuando ejecuto con bucles internos el tiempo de ejecucion aumenta (1 segundo y centimas) ya que causa retraso en cada iteracion de la suma y en la resta, haciendo que esto pueda generar resultados mas predecibles que el caso anterior. Pero debido a la no sincronizacion hace que se generen distintos resultados en las distintas ejecuciones.
 """
+
+2b
+
+<img src="codigoFuncionando.jpg">
+<img src="ASO2024Tp3.jpg">
