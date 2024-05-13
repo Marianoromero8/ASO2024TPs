@@ -20,5 +20,5 @@ Antes de descomentar, cuando ejecuto el archivo sin bucles internos el valor fin
 
 2b
 
-<img src="codigoFuncionando.jpg">
+<img src="codigoFuncionando.png">
 <img src="ASO2024Tp3.jpg">
