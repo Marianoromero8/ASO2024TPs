@@ -21,8 +21,8 @@ Antes de descomentar, cuando ejecuto el archivo sin bucles internos el valor fin
 
 
 2A)
-<a href="./trabajoPractico3/race_condition/con_race_condition.c">Puzzle Resuelto</a>
-<img src="./trabajoPractico3/codigoEjecutado.png">
+<a href="./trabajoPractico3/race_condition/con_race_condition.c">Puzzle Resuelto</a> 
+<img src="./trabajoPractico3/codigoEjecutado.png"> <br>
 
 2B)
-<img src="./trabajoPractico3/ASO2024Tp3.jpg">
+<img src="./trabajoPractico3/ASO2024.drawio.png">
