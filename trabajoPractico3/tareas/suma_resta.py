@@ -3,7 +3,6 @@ import threading
 acumulador = 0
 rango = 100000
 
-
 def sumador():
     global acumulador
     for x in range(rango):
