@@ -31,7 +31,7 @@ Antes de descomentar, cuando ejecuto el archivo sin bucles internos el valor fin
 <h1>Trabajo Practico N°4</h1>
 
 A)
-<img src="./trabajoPractico4/docker-compose-ps.png">
+<img src="./trabajoPractico4/creacionYDocker-compose-ps.png">
 
 B)
 <img src="./trabajoPractico4/phpmyadmin.png">
