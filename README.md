@@ -33,9 +33,11 @@ Antes de descomentar, cuando ejecuto el archivo sin bucles internos el valor fin
 A)
 <img src="./trabajoPractico4/docker-compose-upYps.png">
 
+
 B)
 <img src="./trabajoPractico4/phpmyadmin.png">
 <img src="./trabajoPractico4//nginx.png">
+
 
 C)
 <img src="./trabajoPractico4/clonSitioFacultad.png">
