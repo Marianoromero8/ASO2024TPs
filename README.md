@@ -26,3 +26,18 @@ Antes de descomentar, cuando ejecuto el archivo sin bucles internos el valor fin
 
 2B)
 <img src="./trabajoPractico3/ASO2024.drawio.png">
+
+
+<h1>Trabajo Practico N°4</h1>
+
+A)
+<img src="./trabajoPractico4/docker-compose-ps.png">
+
+B)
+<img src="./trabajoPractico4/phpmyadmin.png">
+<img src="./trabajoPractico4//nginx.png">
+
+C)
+<img src="./trabajoPractico4/clonSitioFacultad.png">
+<img src="./trabajoPractico4/clonSitioFacultad2.png">
+<img src="./trabajoPractico4/clonSitioFacultad3.png">
